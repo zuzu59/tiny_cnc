@@ -7,7 +7,7 @@ Le but est de pouvoir construire, dans un FabLab, très facilement une petite CN
 * Tenir entièrement dans une boîte de 25cm de coté
 > Graver un circuit imprimé avec une CNC génère pleins de petits copeaux de cuivre, incompatibles avec une paillasse d'électronicien, c'est pourquoi la CNC se trouve toujours à l'atelier mécanique, Le but donc avec la Tiny CNC, c'est d'avoir sa petite CNC juste à coté de l'ordinateur et de l'oscilloscope sur sa table de travail !
 
-* Coûter environ 100 CHF
+* Coûter environ 100CHF
 > Une petite CNC d'entrée de gamme c'est environ 700CHF, somme qui fait obstacle à plusieurs. Chaque électronicien ou FabLab peuvent alors se la payer
 
 * Très facile à construire
